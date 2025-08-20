@@ -20,5 +20,8 @@
 <br>1.10. Class and Constructor Creation: Define different classes and constructors. Create a "Car" class with properties like type, model, price, owner, and miles driven. Implement functions to get car information, original car price, current car price, and display car information<br>
 <img width="509" height="635" alt="image" src="https://github.com/user-attachments/assets/9e6f2790-613a-4574-9902-47c4dd46fcb4" />
 <img width="489" height="494" alt="image" src="https://github.com/user-attachments/assets/be7dbe7c-6a5b-4bee-ac81-df39432ee5f1" />
-<br>1.11. Operator Overloading and Matrix Operations: Explain operator overloading and implement matrix addition, subtraction, and multiplication using a "Matrix" class. Overload the toString() function in the "Matrix" class for customized output.<br>
+<br>1.11. Operator Overloading and Matrix Operations: Explain operator overloading and implement matrix addition, subtraction, and multiplication using a "Matrix" class. Overload the toString() function in the "Matrix" class for cus
+tomized output.<br>
 <img width="129" height="217" alt="image" src="https://github.com/user-attachments/assets/d69f7293-4854-4ade-b525-df998ddb35f2" />
+
+[MAD_23012011108_pract_1.zip](https://github.com/user-attachments/files/21901762/MAD_23012011108_pract_1.zip)
